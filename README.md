@@ -33,3 +33,8 @@ Verilog, FPGA (Intel Quartus)
 Collaborated with Javen Lim Hao Jun to design and implement the digital system,
 including the shift register, counter, and 7-segment display logic, and to 
 deploy/test it on the FPGA board.
+
+## Design Documentation
+
+See `DSD_Final_Project.pdf` for the full design write-up, including flow chart, 
+timing diagram, and datapath component breakdown.
